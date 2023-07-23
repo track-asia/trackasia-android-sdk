@@ -6,26 +6,13 @@
   <artifactId>trackasia</artifactId>
   <version>1.0.0</version>
   <packaging>pom</packaging>
-  <name>trackasia-native</name>
-
-  <dependencyManagement>
-    <dependencies>
-      <dependency>
-        <groupId>com.track-asia</groupId>
-        <artifactId>android</artifactId>
-        <version>1.0.0</version>
-      </dependency>
-  </dependencyManagement>
-
-  <modules>
-    <module>platform/android</module>
-  </modules>
+  <name>trackasia-android-sdk</name>
 
   <distributionManagement>
     <repository>
       <id>trackasia</id>
       <name>GitHub trackasia Apache Maven Packages</name>
-      <url>https://maven.pkg.github.com/track-asia/trackasia-native</url>
+      <url>https://maven.pkg.github.com/track-asia/trackasia-android-sdk</url>
     </repository>
   </distributionManagement>
 
