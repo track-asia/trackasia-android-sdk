@@ -8,14 +8,6 @@
   <packaging>pom</packaging>
   <name>trackasia-android-sdk</name>
 
-  <distributionManagement>
-    <repository>
-      <id>trackasia</id>
-      <name>GitHub trackasia Apache Maven Packages</name>
-      <url>https://maven.pkg.github.com/track-asia/trackasia-android-sdk</url>
-    </repository>
-  </distributionManagement>
-
   <build>
     <plugins>
       <plugin>
