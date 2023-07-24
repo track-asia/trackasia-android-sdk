@@ -5,7 +5,7 @@
   <groupId>com.track-asia</groupId>
   <artifactId>trackasia</artifactId>
   <version>1.0.0</version>
-  <packaging>pom</packaging>
+  <packaging>aar</packaging>
   <name>trackasia-android-sdk</name>
 
   <build>
